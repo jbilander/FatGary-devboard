@@ -249,7 +249,7 @@ U 1 1 673FDBD1
 P 2050 3450
 F 0 "U1" H 2050 3350 50  0000 C CNN
 F 1 "PLCC-84-Plug" H 2050 3450 50  0000 C CNN
-F 2 "FatGary-devboard:PLCC-84_Plug_P1.27mm_mirrored" H 2450 5950 50  0001 L CIN
+F 2 "FatGary-devboard:PLCC-84_Plug_P1.27mm_mirrored_extended_pads" H 2450 5950 50  0001 L CIN
 F 3 "" H 2050 3650 50  0001 C CNN
 	1    2050 3450
 	1    0    0    -1  
